@@ -1,0 +1,3 @@
+student name:swara 
+student age:18 
+student cgpa:9.200000 
